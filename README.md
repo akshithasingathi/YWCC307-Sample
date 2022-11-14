@@ -1,1 +1,3 @@
-# YWCC307-Sample
+# YWCC307 - Emotion Recognition Through Audio Analytics
+
+With current advancements in technology, scientists are developing AI models to inspect datasets and recognize emotions from acoustic analysis. Thouch having been inspected from the early 2000s, artificial machine replication models are able to make use of primary and secondary inputs to evaluate emotions by extracting acoustic and linguistic features from acquired data. Scientists determine relationships between particular features and emotional states to make the human computer experience more agile and useful in real time. As this technology has developed, there have been several seen implementations of these use cases across industries and study areas.
